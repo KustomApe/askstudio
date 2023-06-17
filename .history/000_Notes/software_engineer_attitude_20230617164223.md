@@ -102,6 +102,3 @@ herokuにpushしてサイトに反映
 
 <https://speakerdeck.com/twada/understanding-the-spiral-of-technologies>
 
-## 学び続ける姿勢
-
-技術を学ぶのではなく、技術の学び方を学ぶ
